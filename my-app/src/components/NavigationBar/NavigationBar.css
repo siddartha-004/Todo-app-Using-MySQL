@@ -1,0 +1,30 @@
+.search
+{
+    display: flex;
+    padding: 2px;
+
+    align-items: center;
+    background-color: rgb(237, 238, 239);
+}
+.navb
+{
+    background-color: rgb(235, 174, 174);
+    padding: 10px;
+    height:1000px;
+}
+.icon1
+{
+    margin-left: 135px;
+    margin-bottom: 5px;
+
+}
+.text
+{
+    font-size: 15px;
+    margin-left: 6px;
+}
+.matter
+{
+    padding: 10px;
+    margin-top: 10px;
+}
